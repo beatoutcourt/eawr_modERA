@@ -7,3 +7,7 @@
 
 * for list
 * bullet points
+
+# License
+copy paste HTML from creativecommons.org
+create a license file and copy paste the jus text
